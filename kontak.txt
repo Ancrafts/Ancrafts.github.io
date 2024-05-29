@@ -1,0 +1,35 @@
+<html>
+<head>
+<title> Kontak</title>
+</head>
+<body bgcolor=#ffffcc>
+<font face=Lucida Calligraphy size=5 color=maroon>
+<h2><center>Kontak SMA Guna Bakti </h2>
+<MARQUEE WIDTH="100%" bgcolor=yellow </font>Satukan Langkah. Wujudkan Impian Bersama!</MARQUEE>
+		<hr size=5 align=center color=red>
+<hr>
+<font face=arial size=2 color=blue>
+| <a href=UTS.html>H o m e</a> 
+| <a href=profil.html>Profil</a> 
+| <a href=programkeahlian.html>Program Keahlian</a> 
+| <a href=ex.html>Ekstra Kurikuler</a>  
+| <a href=loket.html>Formulir Pendaftaran</a>
+<hr>
+<b><font size=3 Face=times new roman color=black>Kontak: </b>
+<hr size=2 width=100 align=left>
+<ul type=circle>
+		
+		<p>Alamat: Jalan Ahmad Dahlan No. 1, Kota Bumiayu</p>
+		<p>Telp: 021-12345678</p>
+		<p>Email: [smagunabakti@gmail.com](mailto:smagunabakti@gmail.com)</p>
+
+<footer>
+<p>&copy; 2024 SMA Guna Bakti. All rights reserved.</p>
+</footer>
+	
+</body>
+</html>
+	</ul>
+	</font>
+	</body>
+</html>

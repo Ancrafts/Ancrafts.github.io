@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>Website SMA Guna Bakti</title>
+</head>
+<body bgcolor=#fffccc>
+<font size=3 face=segoe uni semibold color=blue>Selamat Datang di Website SMA Guna Bakti
+<hr size=1 width=300 align=left>
+<font face=lucida calligraphy size=5 color=maroon>
+<h1><center><face=magneto>SMA Guna Bakti</h1>
+<MARQUEE WIDTH="100%" bgcolor=yellow <font>Satukan Langkah.Wujudkan Impian Bersama!</MARQUEE>
+<hr size=5 align=center color=red>
+<hr>
+<font face=arial size=2 color=blue>
+|<a href=websekolah.html>Home</a>
+|<a href=profil.html>Profil SMA Guna Bakti</a>
+|<a href=programkeahlian.html>Program Keahlian</a>
+|<a href=ex.html>Ekstrakulikuler</a>
+|<a href=loket.html>Formulir Pendaftaran</a>
+|<a href=kontak.html>Kontak</a>
+<hr>
+<b><font size=3 face=times new roman color=maroon>sekolah adalah tempat dimana impian dibentuk, pengetahuan diperoleh, dan persahabatan ditemukan. Temukan potensi terbaikmu di sekolah SMA Guna Bakt! tempat dimana inovasi,kreativitas, dan prestsdi bertemu di lingkungan belajar yang mendukung dan inspiratif</font></b>
+<img src="fotosekolah.jpeg" alt="Halaman SMA Guna Bakti">
+<body>
+<html>
